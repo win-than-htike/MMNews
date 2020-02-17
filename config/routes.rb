@@ -3,6 +3,8 @@ Rails.application.routes.draw do
 
   scope 'api/v1/' do
     resources :news, defaults: { format: 'json' }
+    resources :authors, defaults: { format: 'json' }
+    resources :categories, defaults: { format: 'json' }
   end
   
   devise_for :users
