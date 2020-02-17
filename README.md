@@ -11,5 +11,5 @@ Things you may want to cover:
 
 Dashboard
 
-![Image of Dashboard](https://ibb.co/nP3BR4z)
+![Image of Dashboard](<a href="https://ibb.co/nP3BR4z"><img src="https://i.ibb.co/WVD0s7g/Capture.png" alt="Capture" border="0"></a>)
 
